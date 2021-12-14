@@ -25,8 +25,7 @@ def syota_matriisi():
                     loop = False
                 else:
                     print("Käytä kokonaislukuja pölö! Tää ei oo niin fiksu softa!")
-                    loop = True
-            
+                    loop = True           
 
 def laske_determinantti():
     summa1 = matriisi[0][0] * (matriisi[1][1]*matriisi[2][2] - matriisi[1][2]*matriisi[2][1])
@@ -36,10 +35,6 @@ def laske_determinantti():
 
     print("Determinantti on:")
     print(determinantti)
-
-
-            
-
 
 syota_matriisi()
 laske_determinantti()
