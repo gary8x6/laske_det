@@ -2,7 +2,6 @@ from fractions import Fraction
 import math
 import os
 
-
 matriisi = [[0,0,0],[0,0,0],[0,0,0]]
 determinantti = 0
 
