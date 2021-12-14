@@ -1,3 +1,3 @@
 # laske_determinantti
-Github-testi
+Github-testi:
 Harjoituksena tehty Python-sovellus.
